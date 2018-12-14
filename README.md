@@ -7,8 +7,8 @@ It uses the recursive method to do the operation,In this algorithm it is assumed
 
 It takes input the total number of nodes,total edges and the source from where we need to start the traversal in graph.
 
--First line of input contains nodes(n),edges(e) and source(s).
--Next e lines contains the node-node pair denoting the edge between these two nodes.
+- First line of input contains nodes(n),edges(e) and source(s).
+- Next e lines contains the node-node pair denoting the edge between these two nodes.
 
 ### Output Format
 
