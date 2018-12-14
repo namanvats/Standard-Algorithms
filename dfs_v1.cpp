@@ -11,7 +11,7 @@ void initial()
 void dfs(int s)
 {
 	visit[s]=1;
-	cout<<s<<'\n';
+	cout<<s<<" ";
 	for(int i=0;i<vec[s].size();i++)
 		{
 			if(!visit[vec[s][i]])
